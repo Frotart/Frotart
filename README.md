@@ -32,9 +32,17 @@ I enjoy exploring new tools, improving existing workflows, and building systems 
 
 I value open-source technology, experimentation, and systems that remain understandable and maintainable.
 
-### Projects
+### Featured Project
 
-Most of my current projects are being developed privately. Public releases, documentation, and experiments will appear here as they become ready.
+**[Folder Change Auditor](https://github.com/Frotart/folder-change-auditor)** · Python · MIT License
+
+[![Tests](https://github.com/Frotart/folder-change-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/Frotart/folder-change-auditor/actions/workflows/ci.yml)
+
+An offline, standard-library Python utility that compares SHA-256 folder snapshots to identify added, removed, and modified files. Includes synthetic demonstrations, a documented test suite, and cross-platform CI.
+
+[Explore the code](https://github.com/Frotart/folder-change-auditor) · [Testing and limitations](https://github.com/Frotart/folder-change-auditor/blob/main/TESTING.md)
+
+Most of my other projects remain in private development. I'll publish selected tools and documentation when they're ready.
 
 ---
 
