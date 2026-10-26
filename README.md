@@ -1,10 +1,6 @@
-# Frotart
-
-### Building practical systems. Exploring better ways to work.
-
-**AI & Knowledge Systems** · **Automation** · **Business Software** · **Open-Source Technology**
-
----
+<p align="center">
+  <img src="assets/frotart-banner.svg" alt="Frotart — AI and Knowledge Systems, Automation, Business Software" width="100%" />
+</p>
 
 ### About me
 
@@ -21,7 +17,14 @@ I enjoy exploring new tools, improving existing workflows, and building systems 
 
 ### Tools & Technologies
 
-`Git` `GitHub` `Docker` `Windows` `WSL` `Linux`
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-252d39?style=flat-square&logo=git&logoColor=F05032" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-252d39?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-252d39?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-252d39?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-252d39?style=flat-square&logo=windows&logoColor=00A4EF" />
+  <img alt="WSL" src="https://img.shields.io/badge/WSL-252d39?style=flat-square" />
+</p>
 
 ### My approach
 
