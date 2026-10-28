@@ -32,7 +32,7 @@ claim labelled by how well it's verified.
 Built while consolidating years of scattered files: before deleting or moving
 anything, I wanted proof of exactly what changed. It snapshots a folder, compares
 snapshots offline, and refuses to guess when something looks unsafe. Standard
-library only, 71 tests, CI on Windows, Linux and macOS.
+library only, 72 tests, CI on Windows, Linux and macOS.
 
 <a href="https://github.com/Frotart/folder-change-auditor">
   <img src="https://raw.githubusercontent.com/Frotart/folder-change-auditor/main/assets/demo.svg" alt="Terminal demo of folder-audit comparing two snapshots" width="640" />
